@@ -25,4 +25,5 @@
 ## 傳送門
 
 - [課程簡報](https://github.com/Sax-Ted/sch001-2022-learn-programming/blob/main/slides.pdf)
-- [](https://github.com/Sax-Ted/sch001-2022-learn-programming/blob/main/course-plan.md)
+- [課程教案](https://github.com/Sax-Ted/sch001-2022-learn-programming/blob/main/course-plan.md)
+- [課程筆記](https://github.com/Sax-Ted/sch001-2022-learn-programming/blob/main/note.md)
